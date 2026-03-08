@@ -82,9 +82,9 @@ representation (libVIOGen). There are some glitches from the merge, so don,t con
 
 ## Tutorial
 
-The base usaage of libVIODES is demonstrated by the simple Qt application "vioedit" that loads VioModels
+The base usaage of libVIODES is demonstrated by the simple Qt application "vioedit" which loads VioModels
 from file and displays the corresponding VioView. It is meant as a basis
-for testing ant debugging.
+for testing and debugging.
 
 
 ## Build System
@@ -109,5 +109,5 @@ To compile use
 ## Authors/Copyright/License
 
 The initial version of libVIODES was developped in the context of Ruediger Berndt's
-masters project back in 2009. This version addresses the mainly type system and the plug-inmechansim.
+masters project back in 2009. This version addresses mainly the type system and the plug-inmechansim.
 Actual graphical representation was merged from Thomas Moor's predecessor project VIOGen, with quite some effort for the various plug-ins. Principle authors are Thomas Moor and Ruediger Berdt, distribution is by terms of the LGPL 3.
