@@ -1,4 +1,6 @@
-***We are have migrated from Qt4 to Qt6 ... this Qt4 fork is for reference only***
+# We are have migrated from Qt4 to Qt6 ... this Qt4 fork is for reference only
+
+===============================================================================
 
 
 # libVIODES - visual representation of libFAUDES objects as Qt Widgets
